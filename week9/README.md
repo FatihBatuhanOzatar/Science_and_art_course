@@ -23,10 +23,12 @@ To ensure high performance and stability on Google Colab's free tier, the archit
 ## Application Demo
 
 ### 1. Chat Mode
-*(Please check the screenshot below showing the Chatbot working properly)*
+<img width="1583" height="818" alt="Ekran görüntüsü 2026-01-10 193958" src="https://github.com/user-attachments/assets/78b72daa-5a0e-46d1-8b53-af77673d1f6d" />
+
 
 ### 2. Art Mode
-*(Please check the screenshot below showing the Image Generator working properly)*
+<img width="692" height="784" alt="Ekran görüntüsü 2026-01-10 194406" src="https://github.com/user-attachments/assets/d4ea7fb6-573c-4268-8f52-3204c2dfd01c" />
+
 
 ## Technical Note: Why Cloud API?
 Attempting to load both Mistral-7B and SDXL simultaneously on a free T4 GPU caused frequent "Out of Memory" crashes. By switching to the Hugging Face Inference Client, the application now runs smoothly with zero local resource strain, delivering faster results and higher quality outputs.
