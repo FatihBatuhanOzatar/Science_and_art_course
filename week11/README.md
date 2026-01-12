@@ -17,9 +17,9 @@ This directory contains the deliverables for Week 11. The objective was to integ
 ## Sample Outputs
 The screenshot below demonstrates the **Grayscale** filter applied to a generated image of a cyberpunk city.
 
-![Filter Demo](week11_filter_demo.png)
-![Filter Demo](week11_filter_demo.png)
-![Filter Demo](week11_filter_demo.png)
+![Filter Demo](blur.png)
+![Filter Demo](grayscale.png)
+![Filter Demo](invert.png)
 
 ## Technical Implementation
 The filters are applied locally within the Streamlit app logic, meaning the image generation happens on the cloud (Hugging Face), but the artistic filtering happens on the app server using CPU resources efficiently.
