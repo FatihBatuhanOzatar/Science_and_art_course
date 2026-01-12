@@ -27,7 +27,7 @@ I compared a basic prompt against an optimized, descriptive prompt using **Stabl
 ### Visual Results
 The image below demonstrates the significant difference in quality and style adherence.
 
-![Comparison Result](comparison_result.png)
+![Comparison Result](image.png)
 *(Note: This image was generated using the Week 10 Notebook)*
 
 ## Conclusion
