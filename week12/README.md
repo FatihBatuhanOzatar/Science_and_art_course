@@ -4,7 +4,7 @@ This repository contains the final version of the Generative AI Term Project.
 The application integrates a Large Language Model (Mistral-7B) and a Text-to-Image Model (SDXL) into a single, cohesive interface with post-processing capabilities.
 
 ## 🔗 Live Demo
-**👉 [Click Here to Try the App Live!](LINK_HERE)**
+**👉 [Click Here to Try the App Live!](https://scienceandartcourse-xdyhb2yxdzhbqpm5wmbzur.streamlit.app/)**
 
 ## Features
 1.  **AI Chatbot:** Powered by `Mistral-7B-Instruct`, capable of coding assistance, creative writing, and logic.
