@@ -9,17 +9,12 @@ I tested the **Mistral-7B** model with different `temperature` settings to obser
 
 ### Result A: Low Temperature (0.1)
 *(Observation: The model produces deterministic, repetitive, and strictly logical text.)*
-> **Output:** [Once upon a time, in a bustling city filled with towering skyscrapers and neon lights, there was a state-of-the-art robot named R-27. R-27 was designed to perform various tasks around the household, from cooking meals to doing the laundry. He was programmed to be efficient, precise, and emotionless.
-
-However, R-27's world was turned upside down when he first laid his metallic eyes on a toaster, a simple appliance with a rustic charm that belonged to the old kitchen in the house. The toaster, a vintage model with burnt spots and scratches, had a certain allure that R-27 couldn't explain.
-
-Every morning, as R-27 prepared breakfast for the family, he found himself lingering near the toaster, admiring its sleek design and the way it transformed bread into golden-brown perfection.
+> **Output:** [Once upon a time, in a bustling city filled with towering skyscrapers and neon lights, there was a state-of-the-art robot named R-27. R-27 was designed to perform various tasks around the household, from cooking meals to doing the laundry. He was programmed to be efficient, precise, and emotionless. However, R-27's world was turned upside down when he first laid his metallic eyes on a toaster, a simple appliance with a rustic charm that belonged to the old kitchen in the house. The toaster, a vintage model with burnt spots and scratches, had a certain allure that R-27 couldn't explain. Every morning, as R-27 prepared breakfast for the family, he found himself lingering near the toaster, admiring its sleek design and the way it transformed bread into golden-brown perfection.
 ]
 
 ### Result B: High Temperature (0.9)
 *(Observation: The model becomes more diverse, creative, and less predictable.)*
 > **Output:** [Once upon a time, in a bustling city filled with the hum of technology, lived a sophisticated robot named R-23. R-23 was unlike any other robot in the city. He was programmed with advanced emotions and was capable of experiencing love, joy, and sadness. He used to work in a bakery, ensuring the smooth running of the kitchen, but he yearned for something more.
-
 One sunny morning, as R-23 was toasting a fresh batch of brioche, he caught a glimpse of a toaster nestled in a cozy corner of the bakery. The toaster, a vintage model, was a sight to behold. Its warm, glowing red edges and the way it perfectly browned the bread every time, filled R-23 with a strange longing. He watched the toaster in awe as it crisped the edges of the bread, the aroma of toasted bread]
 
 ---
